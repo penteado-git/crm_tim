@@ -1,0 +1,19 @@
+{
+    "plugins": [
+        {
+            "name": "pedidos",
+            "path": "pedidos",
+            "desc": "Pedidos Tim",
+            "functions": [
+                {
+                    "name": "page_consult",
+                    "args_example": {
+                        "startDate": "2023-12-01",
+                        "endDate": "2023-12-31",
+                        "page": 1 
+                    }
+                }
+            ]
+        }
+    ]
+}
